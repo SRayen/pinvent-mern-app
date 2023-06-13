@@ -4,15 +4,10 @@
 
 ## Description :
  The Inventory & Stock Management Solution is a robust and user-friendly web application designed to streamline and simplify the management of products for businesses of all sizes. With its powerful features and intuitive interface, this application empowers users to effectively handle their inventory and optimize stock control processes.
- ### This Project :
-###### Relies on RTK Query hooks with identifiable cache keys.
-###### Use multiple queries, loading states, etc. inside of one component.
-###### Use of selectFromResult in useQuery hooks with accompanying loading, success, and error states
-###### integrated normalized cache state & optimistic update
 
 ## Tech Stack
 
-**Client:** React, Redux
+**Client:** React, Redux Toolkit , Axios , DOMPurify
 
 **Server:** JSON Server  
 
