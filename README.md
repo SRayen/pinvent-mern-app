@@ -22,28 +22,4 @@
 
 ![Capture d’écran 2023-05-13 020438](https://github.com/SRayen/Mini-Blog-Project-V-2.0/assets/13922445/aed758b0-efc4-48c4-bf53-0e95f56b7fb8)
 
-## Installation :
-### To run the Mini-Blog-Project locally, follow these steps:
-
-  #### 1.Clone the repository:
-
-```
-git clone https://github.com/SRayen/Mini-Blog-Project-V-2.0-RTK-Query.git
-```
-  #### 2.Navigate to the project directory::
-```
-cd Mini-Blog-Project
-```
-  #### 3.Install the dependencies:
-
-```
-npm install
-```
-
-#### 4.Run the App:
-
-```
-npm start
-```
-
 
