@@ -7,9 +7,9 @@
 
 ## Tech Stack :
 
-**Client:** React, Redux Toolkit , Axios , DOMPurify , cloudinary , SCSS , ReactQuill , react-paginate
+**Client:** React, Redux Toolkit , Axios , DOMPurify , Cloudinary , SCSS , ReactQuill , React-paginate
 
-**Server:** Express.js , bcryptjs , jsonwebtoken , nodemailer , multer , cloudinary , MongoDB Atlas Database
+**Server:** Express.js , Bcryptjs , Jsonwebtoken , Nodemailer , Multer , Cloudinary , MongoDB Atlas Database
 
 ## Deployment : 
   * Render
