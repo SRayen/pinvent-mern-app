@@ -9,17 +9,18 @@
 
 **Client:** React, Redux Toolkit , Axios , DOMPurify , cloudinary , SCSS , ReactQuill , react-paginate
 
-**Server:** Express.js , bcryptjs , jsonwebtoken , nodemailer , multer , cloudinary
+**Server:** Express.js , bcryptjs , jsonwebtoken , nodemailer , multer , cloudinary , MongoDB Atlas Database
 
 ## Deployment : 
-  * Netifly
-  * Glitch  
+  * Render
   
  ## Screenshots:
-  
-![Capture d’écran 2023-05-13 012701](https://github.com/SRayen/Mini-Blog-Project-V-2.0/assets/13922445/d0ddd936-7102-46a1-87a8-0043728dd9d1)
+  ![dashboard](https://github.com/SRayen/pinvent-mern-app/assets/13922445/d2ca00e1-5da1-4236-b390-39a8850bfcf7)
+![editProfile](https://github.com/SRayen/pinvent-mern-app/assets/13922445/b9bd914e-2549-4868-a12f-ba68ebbef4b2)
+![reportBug](https://github.com/SRayen/pinvent-mern-app/assets/13922445/d084d149-1d28-4361-82c8-b878b7313f66)
+![productDetail](https://github.com/SRayen/pinvent-mern-app/assets/13922445/85dd999f-ff49-40ec-be19-c49e5a67e13f)
+![ReduxDevTools](https://github.com/SRayen/pinvent-mern-app/assets/13922445/debccd97-4565-4456-8d07-a39192688c39)
 
 
-![Capture d’écran 2023-05-13 020438](https://github.com/SRayen/Mini-Blog-Project-V-2.0/assets/13922445/aed758b0-efc4-48c4-bf53-0e95f56b7fb8)
 
 
