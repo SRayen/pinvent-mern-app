@@ -7,18 +7,9 @@
 
 ## Tech Stack
 
-**Client:** React, Redux Toolkit , Axios , DOMPurify
+**Client:** React, Redux Toolkit , Axios , DOMPurify , cloudinary , SCSS , ReactQuill , react-paginate
 
-**Server:** JSON Server  
-
-## Concepts are used :
-  * React
-  * Redux Toolkit
-  * React advanced hooks
-  * React Router 6
-  * JSON Server
-  * Date-fns
-  * RTK Query : createApi - createEntityAdapter - selectFromResult ...
+**Server:** Express.js , bcryptjs , jsonwebtoken , nodemailer , multer , cloudinary
 
 ## Deployment : 
   * Netifly
